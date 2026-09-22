@@ -32,5 +32,4 @@ Puedes conocer algunos de mis proyectos en mi portafolio:
 
 - [LinkedIn](https://www.linkedin.com/in/luisfernandovillamizarparra/)
 - [Portafolio](https://lufer-dev.vercel.app/)
-- [GitHub](https://github.com/lufer96)
 - [Correo](mailto:villaluis9421@gmail.com)
